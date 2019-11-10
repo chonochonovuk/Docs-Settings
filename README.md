@@ -1,2 +1,1 @@
-# Docs-Settings
-SoftUniDocs &amp; Idea Settings
+Inellij_Idea_Settings
